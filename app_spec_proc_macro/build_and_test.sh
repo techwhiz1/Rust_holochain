@@ -1,0 +1,1 @@
+../app_spec/build_and_test.sh
